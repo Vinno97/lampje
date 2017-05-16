@@ -1,0 +1,27 @@
+{
+  "extends": "xo-space",
+  "env": {
+    "mocha": true
+  },
+  "rules": {
+    "linebreak-style": "off",
+    "no-prototype-builtins": "off",
+    "curly": [
+      "error",
+      "multi-line"
+    ],
+    "brace-style": [
+      "error",
+      "1tbs",
+      {
+        "allowSingleLine": true
+      }
+    ],
+    "no-case-declarations": "off"
+  }
+}
+
+
+
+
+
